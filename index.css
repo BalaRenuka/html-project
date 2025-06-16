@@ -1,0 +1,45 @@
+.container-1,.container-2,.container-3,.container-4{
+    width: 90%;
+    height: 670px;
+    border: 0px solid rgb(199, 71, 199);
+    margin-left: 60px;
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: px;
+}
+.class-1,.class-2,.class-3,.class-4,.class-5,.class-6,.class-7,.class-8{
+    display: inline-block;
+    width:500px;
+    height: 630px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(202, 197, 197);
+   
+    
+}
+
+img{
+    width:450px;
+    border-radius: 25px;
+    align-content: flex-start;
+    margin: 26px;
+}
+p{
+    word-spacing: 50px;
+    align-items: center;
+   
+    
+}
+button{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding:7px;
+    width: 80px;
+}
+
+
+
+
